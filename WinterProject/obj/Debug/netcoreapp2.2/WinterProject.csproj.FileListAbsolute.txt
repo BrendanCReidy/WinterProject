@@ -1,0 +1,11 @@
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/bin/Debug/netcoreapp2.2/WinterProject.deps.json
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/bin/Debug/netcoreapp2.2/WinterProject.runtimeconfig.json
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/bin/Debug/netcoreapp2.2/WinterProject.runtimeconfig.dev.json
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/bin/Debug/netcoreapp2.2/WinterProject.dll
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/bin/Debug/netcoreapp2.2/WinterProject.pdb
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.csprojAssemblyReference.cache
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.csproj.CoreCompileInputs.cache
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.AssemblyInfoInputs.cache
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.AssemblyInfo.cs
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.dll
+/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj/Debug/netcoreapp2.2/WinterProject.pdb

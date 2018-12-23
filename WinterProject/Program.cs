@@ -1,12 +1,15 @@
 ﻿using System;
-
 namespace WinterProject
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
-            Console.WriteLine("Hello!");
+            run();
+        }
+        public static void run()
+        {
+            Console.WriteLine("This is a test");
         }
     }
 }

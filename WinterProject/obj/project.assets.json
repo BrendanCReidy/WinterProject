@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendanreidy/WinterProject/WinterProject/WinterProject/WinterProject.csproj",
+      "projectUniqueName": "/Users/brendanreidy/WinterProject/WinterProject/WinterProject.csproj",
       "projectName": "WinterProject",
-      "projectPath": "/Users/brendanreidy/WinterProject/WinterProject/WinterProject/WinterProject.csproj",
+      "projectPath": "/Users/brendanreidy/WinterProject/WinterProject/WinterProject.csproj",
       "packagesPath": "/Users/brendanreidy/.nuget/packages/",
-      "outputPath": "/Users/brendanreidy/WinterProject/WinterProject/WinterProject/obj",
+      "outputPath": "/Users/brendanreidy/WinterProject/WinterProject/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
